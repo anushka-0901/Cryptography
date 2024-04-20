@@ -3,9 +3,6 @@ if (b == 0)
 return a;
 return gcd(b, a % b);
 }
-Aim: Implement the following methods
-Name:- Anushka Tripathi
-Roll no:- C1_02
 
 int eulerTotient(int n) {
 int count = 0;
